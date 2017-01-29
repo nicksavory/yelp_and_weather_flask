@@ -3,9 +3,6 @@ Flask-Cors==2.1.2
 geopy==1.11.0
 oauth2==1.9.0.post1
 oauthlib==2.0.1
-odo==0.5.0
-path.py==0.0.0
-pathlib2==2.1.0
 requests==2.11.1
 requests-oauthlib==0.7.0
 responses==0.5.1
